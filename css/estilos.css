@@ -25,6 +25,7 @@ body
     vertical-align: middle;
 }
 
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -51,6 +52,14 @@ body
 {
     padding: 1em;
     background: white;
+}
+
+
+#post #blog
+{
+    width:450px;
+    height:250px;
+    vertical-align: middle;
 }
 
 #footer
